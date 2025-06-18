@@ -1,7 +1,5 @@
 # Hi there, I'm Daniel Leith 👋
 
-## About Me
-
 I'm a passionate developer with a keen interest in software development and open-source contributions. I enjoy working on diverse projects and exploring new technologies.
 
 - 🔭 I’m currently working on two websites for my sister's businesses.
