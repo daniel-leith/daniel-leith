@@ -2,7 +2,7 @@
 
 I'm a passionate developer with a keen interest in software development and open-source contributions. I enjoy working on diverse projects and exploring new technologies.
 
-- 🔭 I’m currently working on two websites for my sister's businesses.
+- 🔭 I’m currently working on two websites for 2 businesses as well as a website for my temple.
 - 🌱 I’m currently learning Full Stack Web Development using the MERN stack and React Native for applications.
 - 💬 Ask me about HTML/CSS & SCSS/JavaScript & TypeScript
 - 📫 How to reach me: danielleith3@gmail.com
